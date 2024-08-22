@@ -7,6 +7,7 @@ public class Lbrce {
 		{
 			
 		System.out.println("hello world");
+			System.out.println("welcome");
 	}
 
 }
